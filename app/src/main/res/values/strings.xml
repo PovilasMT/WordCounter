@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+
+    <string name="hint_enter_text">Enter text</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="result_default">Result: -</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="count_types">
+        <item>Words</item>
+        <item>Characters</item>
+    </string-array>
+</resources>
